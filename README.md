@@ -27,10 +27,12 @@ This Power BI dashboard analyzes customer demographics, loan adoption patterns, 
 - Interest earnings consistent across quarters.
 # Dashboard Screenshots
 # 1.Customer Overview
-<img width="1599" height="850" alt="Screenshot 2026-02-17 124105" src="https://github.com/user-attachments/assets/7bd0da21-1915-4e40-985e-9da95c462144" />
+<img width="1380" height="769" alt="Screenshot 2026-03-03 142058" src="https://github.com/user-attachments/assets/5e4296b7-a2d2-4dee-9281-232d2760fc2b" />
+
 
 # 2.Transaction Analysis
-<img width="1601" height="868" alt="Screenshot 2026-02-17 124009" src="https://github.com/user-attachments/assets/cea76713-b374-4ca1-93d1-3c59cda9e2da" />
+<img width="1378" height="776" alt="Screenshot 2026-03-03 142033" src="https://github.com/user-attachments/assets/599edd0d-4a14-429e-8b05-770ac80b0c4f" />
+
 
 # Business Value
 - This dashboard helps financial institutions:
